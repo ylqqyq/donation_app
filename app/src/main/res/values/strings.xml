@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">donation_app</string>
+    <string name="paypal">PayPal</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="donate_now">Donate now</string>
+    <string name="please_enter_the_amount">Please enter the amount</string>
+    <string name="donation">Donation</string>
+    <string name="please_choose_your_method">Please choose your method</string>
+</resources>
